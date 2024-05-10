@@ -1,7 +1,4 @@
 ### Hi there 👋
 
-🔭 I’m currently working on NeighborConnect App
+Front end developer
 
-🌱 I’m currently learning Flutter
-
-💬 Ask me about Android
